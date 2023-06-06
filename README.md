@@ -1,7 +1,8 @@
 # Pokedex-Notes-App
 
 El equipo esta formado por:
-Christia Matos Basaldúa
+
+Christian Matos Basaldúa
 Edgardo Pérez Ríos Corssen
 Dania Barbara Venegas Bofill
 
